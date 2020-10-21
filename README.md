@@ -6,7 +6,7 @@ NIM: 16520061
 
 DISCLAIMER: mohon maaf sebesar-besarnya jika pendapat saya salah atau tidak sesuai keadaan di dunia asli, karena pada dasarnya saya hanya hamba allah yang pengetahuanya terbatas. oleh karena itu saya ingin ikut DSC agar pengetahuan saya bertambah luas:)
 
-<em>FIREBASE</em>
+<h2><em>FIREBASE</em></h2>
 
 
 Firebase merupakan salah satu google products yang berguna untuk membuat aplikasi menjadi lebih baik dan lebih berkualitas, sehinnga bisa membuat aplikasi kita berkembang sehingga bisa menjadi bisnis yang menjanjikan. Banyak sekali fitur yang ditawarkan kepada developer jika menggunakan firebase. Sebenarnya banyak sekali fitur-fitur yang bisa dimanfaatkan jika menggunakan firebase, namun agar esai ini tidak terlalu panjang saya hanya akan membahas beberapa saja.
